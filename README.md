@@ -1,4 +1,4 @@
-<h1 align="Center">WELCOME TO MY GITHUB</h1>
+<h1 align="Center"><b><i>WELCOME TO MY GITHUB</i></b></h1>
 <h1 align="center">Hi 👋, I'm Sheikh Wasib Al Islam</h1>
 <h3 align="center">A passionate Web_Devloper from Bangladesh</h3>
 <img align="right"alt="coding"width="400"src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif">
