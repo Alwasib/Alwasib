@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alwasib&label=Profile%20views&color=0e75b6&style=flat" alt="alwasib" /> </p>
 
-- 🔭 I’m currently studying computer science engeneering **BSc in CSE**
+- 🔭 I’m currently studying  **BSc in CSE**
 
 - 🌱 I’m currently learning **Web devloping**
 
